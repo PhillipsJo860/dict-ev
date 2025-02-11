@@ -16,3 +16,6 @@ for songs in artists_art.values():
 
 for combined in artists_art.items():
     print(combined)
+
+
+RED = (255, 0, 0)
